@@ -11,7 +11,9 @@ and deliver a CSV file contains those information as output.
 How to Run :- 
 
 python3 zipanalyzer.py
+
 Enter the name of the file: test.zip
+
 Enter the name of the CSV file: tesfile.csv
 
 testfile.csv will generate and will give the file path of generated CSV file in the terminal.
